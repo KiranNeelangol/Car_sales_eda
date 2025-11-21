@@ -49,8 +49,9 @@ Sales performance trends
 4. Data Visualizations
 Visualized data trends using:
 Histograms & Distribution Plots
-Box Plots (to examine price spread & outliers)
+Box Plots (to examine price spread & outliers
 Bar Charts (for categorical comparisons)
+Line Graph (for pattern)
 Heatmaps (for correlation analysis)
 
 How to Run the Project
