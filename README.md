@@ -68,5 +68,5 @@ Run all cells sequentially to reproduce the analysis
 Project Files
 File	Description
 EDA Car Sales.ipynb	Main notebook containing code, EDA & visualizations
-car_sales.csv	Dataset
+MIT License
 README.md	Documentation
